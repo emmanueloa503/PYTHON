@@ -14,7 +14,7 @@ Project consists of developing a weather app using the Python programming langua
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
