@@ -1,7 +1,5 @@
 <h1>Weather App </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project consists of developing a weather app using the Python programming language. We'll use the OpenWeatherMap API to retrieve weather data and use the requests library in Python to fetch the weather API.
 <br />
